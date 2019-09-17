@@ -1,0 +1,4 @@
+[submodule "Bebop"]
+	path = Bebop
+	url = https://github.com/pyloncloud/Ocean.Bebop.git
+	branch = UPM
