@@ -1,0 +1,59 @@
+{
+  "StateInAt": "2019-06-03T09:00:28.7802968Z",
+  "Period": 10000,
+  "DealCards": {
+    "CowboyHoleCards": [
+      "3C",
+      "4D"
+    ],
+    "BullHoleCards": [
+      "8D",
+      "7S"
+    ],
+    "CommunityCards": [
+      "AS",
+      "6D",
+      "9C",
+      "9D",
+      "6H"
+    ]
+  },
+  "MyBattingInfos": null,
+  "CowboyBestCardInfo": {
+    "Cards": [
+      "AS",
+      "6D",
+      "9C",
+      "9D",
+      "6H"
+    ],
+    "RankCode": 2468,
+    "Rank": 3040,
+    "HighNumbers": [
+      "9",
+      "6"
+    ]
+  },
+  "BullBestCardInfo": {
+    "Cards": [
+      "AS",
+      "6D",
+      "9C",
+      "9D",
+      "6H"
+    ],
+    "RankCode": 2468,
+    "Rank": 3040,
+    "HighNumbers": [
+      "9",
+      "6"
+    ]
+  },
+  "WinningBettingTypes": [
+    3,
+    22,
+    12,
+    12
+  ]
+}
+
